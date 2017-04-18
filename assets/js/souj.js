@@ -49,9 +49,9 @@ function draw() {
 		bHealth = 0;
 	}
 	if(!bAlive){
-		textSize(28);
+		textSize(14);
 		fill(255, 0, 255);
-		text("CLAIM YOUR FREE IPOD TOUCH AT\nhttps://mega.nz/#F!xig3EKzQ", 20, 200);
+		text("CLAIM YOUR FREE IPOD TOUCH AT\nhttps://drive.google.com/file/d/0Bxd3V3vMA0z0RWJueUhGY2lsOVE/view", 20, 200);
 	}
 
 	fill(255);
