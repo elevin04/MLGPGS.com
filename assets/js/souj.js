@@ -18,7 +18,7 @@ function preload() {
 }
 
 function setup() {
-
+	
 	createCanvas(600, 600);
 	souj = new Character(0, soujImg);
 	bc = new Character(1, bcImg);
